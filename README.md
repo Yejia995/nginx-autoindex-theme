@@ -1,5 +1,7 @@
 # Manala Nginx Autoindex Theme
 
+Fork from Manala
+
 ## Integration
 
 Clone the repository into a root hidden .theme folder
